@@ -2,7 +2,6 @@
 
 This repository contains a RESTful API developed using Node.js and Express for performing CRUD (Create, Read, Update, Delete) operations on courses. The API provides endpoints to manage courses and allows testing these operations using Postman. 
 
-![API Demo](./docs/api-demo.png)
 
 ## ✨ Features
 
@@ -27,7 +26,7 @@ This repository contains a RESTful API developed using Node.js and Express for p
 
 To test the API endpoints, you can import the provided Postman collection from the `postman` directory. The collection includes pre-configured requests for all the CRUD operations on courses.
 
-![Postman Testing](./docs/postman-testing.png)
+![Postman Testing](/docs/Deleting Course.jpeg)
 
 ## 🤝 Contributing
 
