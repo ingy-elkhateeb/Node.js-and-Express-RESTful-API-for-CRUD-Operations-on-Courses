@@ -26,8 +26,25 @@ This repository contains a RESTful API developed using Node.js and Express for p
 
 To test the API endpoints, you can import the provided Postman collection from the `postman` directory. The collection includes pre-configured requests for all the CRUD operations on courses.
 <br>
-<img src="Deleting Course.jpeg"></img>
-<img  src="skip.png"></img>
+- **Deleting a Course**
+<br>
+<img src="docs/Deleting Course.jpeg"></img><br>
+
+- **Add course using Put**
+<br>
+<img src="docs/Add course using Put.jpeg"></img><br>
+
+- **Error if course name is not specified**
+<br>
+<img src="docs/Error if course name is not specified.jpeg"></img><br>
+
+- **Get list of courses**
+<br>
+<img src="docs/Get list of courses.jpeg"></img><br>
+
+- **Posting New Course**
+<br>
+<img src="docs/Posting New Course.jpeg"></img><br>
 
 ## 🤝 Contributing
 
