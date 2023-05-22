@@ -25,7 +25,9 @@ This repository contains a RESTful API developed using Node.js and Express for p
 ## ✅ Testing with Postman
 
 To test the API endpoints, you can import the provided Postman collection from the `postman` directory. The collection includes pre-configured requests for all the CRUD operations on courses.
+<br>
 <img src="Deleting Course.jpeg"></img>
+<img  src="skip.png"></img>
 
 ## 🤝 Contributing
 
