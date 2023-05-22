@@ -19,7 +19,8 @@ This repository contains a RESTful API developed using Node.js and Express for p
 2. Install the required dependencies using npm or yarn.
 3. Configure the database connection in the `.env` file.
 4. Run the API using the command `npm start` or `yarn start`.
-5. Start testing the API endpoints using Postman.
+5. you should see the App is listening on port ...
+6. Start testing the API endpoints using Postman.
 
 
 ## ✅ Testing with Postman
